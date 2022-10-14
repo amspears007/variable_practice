@@ -1,1 +1,2 @@
-var
+variables
+name = "amy"
