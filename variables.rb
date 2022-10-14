@@ -12,3 +12,6 @@ home_payment = 500.50
 hours_of_sleep = 6.5
 gallons_of_gas = 6.7
 
+female = true
+car_owner = true
+blond hair = false
