@@ -2,7 +2,7 @@
 
 name = "amy"
 email = "amy.spears@gmail.com"
-address - "123 number st"
+address = "123 number st"
 
 age = 39
 kids = 2
@@ -14,4 +14,8 @@ gallons_of_gas = 6.7
 
 female = true
 car_owner = true
-blond hair = false
+blond_hair = false
+
+puts name
+puts pets
+puts female
