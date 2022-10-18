@@ -1,8 +1,8 @@
 ## variables
 
-name = "Max"
-email = "maxmydog007@gmail.com"
-address = "321 Dog St"
+name = "amy"
+email = "amy.spears@gmail.com"
+address = "123 number st"
 
 age = 39
 kids = 2
@@ -20,3 +20,12 @@ puts name
 puts email
 puts address
 puts blond_hair
+
+
+name = "Max"
+email = "maxmydog007@gmail.com"
+address = "321 Dog St"
+
+puts name
+puts email
+puts address
